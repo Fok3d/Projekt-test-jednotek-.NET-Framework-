@@ -1,0 +1,11 @@
+G:\prg\rpr\rpr\bin\Debug\rpr.exe.config
+G:\prg\rpr\rpr\bin\Debug\rpr.exe
+G:\prg\rpr\rpr\bin\Debug\rpr.pdb
+G:\prg\rpr\rpr\obj\Debug\rpr.csproj.AssemblyReference.cache
+G:\prg\rpr\rpr\obj\Debug\rpr.csproj.SuggestedBindingRedirects.cache
+G:\prg\rpr\rpr\obj\Debug\rpr.Form1.resources
+G:\prg\rpr\rpr\obj\Debug\rpr.Properties.Resources.resources
+G:\prg\rpr\rpr\obj\Debug\rpr.csproj.GenerateResource.cache
+G:\prg\rpr\rpr\obj\Debug\rpr.csproj.CoreCompileInputs.cache
+G:\prg\rpr\rpr\obj\Debug\rpr.exe
+G:\prg\rpr\rpr\obj\Debug\rpr.pdb
